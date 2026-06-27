@@ -8,7 +8,7 @@
 Math, Bit Manipulation
 
 ### 🚀 Performance
-- **Runtime:** N/A
+- **Runtime:** Successfully Evaluated
 - **Memory:** N/A
 
 ---
