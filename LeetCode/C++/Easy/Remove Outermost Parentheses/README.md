@@ -1,6 +1,6 @@
 # 📝 Remove Outermost Parentheses (LeetCode)
 
-🔗 [Problem Link](https://leetcode.com/problems/remove-outermost-parentheses/)
+🔗 [Problem Link](https://leetcode.com/problems/remove-outermost-parentheses)
 
 ![Difficulty](https://img.shields.io/badge/Difficulty-Easy-brightgreen) ![Language](https://img.shields.io/badge/Language-C++-blue)
 
@@ -8,7 +8,7 @@
 String, Stack
 
 ### 🚀 Performance
-- **Runtime:** N/A
+- **Runtime:** Successfully Evaluated
 - **Memory:** N/A
 
 ---
