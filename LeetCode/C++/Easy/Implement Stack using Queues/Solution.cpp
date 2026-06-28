@@ -9,7 +9,6 @@ public:
     void push(int x) {
         ++rear;
         if(rear>=0){
-
             arr[rear]=x;
         }
 
