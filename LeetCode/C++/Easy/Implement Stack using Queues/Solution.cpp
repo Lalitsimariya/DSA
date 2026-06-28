@@ -1,7 +1,7 @@
 class MyStack {
 public:
     int rear=-1;
-    int arr[6];
+    int arr[100];
     MyStack() {
         
     }
