@@ -1,6 +1,6 @@
 # 📝 Implement Stack using Queues (LeetCode)
 
-🔗 [Problem Link](https://leetcode.com/problems/implement-stack-using-queues/)
+🔗 [Problem Link](https://leetcode.com/problems/implement-stack-using-queues)
 
 ![Difficulty](https://img.shields.io/badge/Difficulty-Easy-brightgreen) ![Language](https://img.shields.io/badge/Language-C++-blue)
 
@@ -8,7 +8,7 @@
 Stack, Design, Queue
 
 ### 🚀 Performance
-- **Runtime:** N/A
+- **Runtime:** Successfully Evaluated
 - **Memory:** N/A
 
 ---
