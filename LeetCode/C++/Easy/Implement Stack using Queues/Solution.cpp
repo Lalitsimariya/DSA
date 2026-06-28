@@ -8,7 +8,7 @@ public:
     
     void push(int x) {
         ++rear;
-        if(rear)
+        if(rear>)
         arr[rear]=x;
 
 
