@@ -13,9 +13,12 @@ public:
     
     int pop() {
         int c=arr[front];
-        if(front>=0){
+        if(rear>=0){
             front++;
+            rear--;
         }
+        
+        
         return  c;
         
         
@@ -31,9 +34,7 @@ public:
         if(rear==-1){
             return true;
         }
-        else{
-            return false;
-        }
+       return false;
 
     }
 };
