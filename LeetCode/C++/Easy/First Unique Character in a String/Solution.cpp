@@ -1,7 +1,7 @@
 class Solution {
 public:
     int firstUniqChar(string s) {
-        vector<int>arr(s.length());
+        vector<int>arr;
         int count=0;
         for(int i=0;i<s.length();i++){
             char c=s[i];
