@@ -13,7 +13,7 @@ public:
     
     int pop() {
         int c=arr[front];
-        if(rear>=0){
+        
             front++;
             rear--;
         }
