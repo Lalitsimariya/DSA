@@ -1,41 +1,46 @@
 class MyQueue {
 public:
-    int front=0,rear=-1;
-    int arr[100];
+    int front=0,rear=-1,top=-1;
+    int arr1[100];
+    int arr2[100];
     MyQueue() {
         
     }
     
     void push(int x) {
-        rear++;
-        arr[rear]=x;
+        //stack
+        ++top;
+        arr1[top]=x;
+        //queue
+        ++rear;
+        arr2[rear]=x;
+
+
     }
     
     int pop() {
-        int c=arr[front];
+        //stack
+        int a=arr1[top];
+        --top;
         
-            front++;
-            rear--;
-        }
-        
-        
-        return  c;
-        
-        
+        //queue
+        int b=arr2[front];
+        ++front;
+        return b;
+
     }
     
     int peek() {
-       
-        return arr[front];
-        
+        return arr1[front];
     }
     
     bool empty() {
-        if(rear==-1){
+        if(top==-1 || rear==-1){
             return true;
         }
-       return false;
-
+        else{
+            return false;
+        }
     }
 };
 
