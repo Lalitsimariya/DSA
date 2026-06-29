@@ -31,7 +31,7 @@ public:
     }
     
     int peek() {
-        return arr1[front];
+        return arr2[front];
     }
     
     bool empty() {
