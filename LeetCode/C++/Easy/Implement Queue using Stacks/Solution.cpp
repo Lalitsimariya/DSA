@@ -22,12 +22,9 @@ public:
     }
     
     int peek() {
-        if(rear>0){
-            return arr[front];
-        }
-        else{
-            return 0;
-        }
+       
+        return arr[front];
+        
     }
     
     bool empty() {
