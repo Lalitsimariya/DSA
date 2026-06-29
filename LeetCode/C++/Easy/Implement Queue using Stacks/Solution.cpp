@@ -22,7 +22,7 @@ public:
     }
     
     int peek() {
-        if(rear>=0){
+        if(rear>0){
             return arr[front];
         }
         else{
