@@ -8,7 +8,7 @@
 Hash Table, String, Queue, Counting
 
 ### 🚀 Performance
-- **Runtime:** Successfully Evaluated
+- **Runtime:** N/A
 - **Memory:** N/A
 
 ---
