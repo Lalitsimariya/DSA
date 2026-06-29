@@ -1,6 +1,6 @@
 # 📝 First Unique Character in a String (LeetCode)
 
-🔗 [Problem Link](https://leetcode.com/problems/first-unique-character-in-a-string/)
+🔗 [Problem Link](https://leetcode.com/problems/first-unique-character-in-a-string)
 
 ![Difficulty](https://img.shields.io/badge/Difficulty-Easy-brightgreen) ![Language](https://img.shields.io/badge/Language-C++-blue)
 
@@ -8,7 +8,7 @@
 Hash Table, String, Queue, Counting
 
 ### 🚀 Performance
-- **Runtime:** Successfully Evaluated
+- **Runtime:** N/A
 - **Memory:** N/A
 
 ---
