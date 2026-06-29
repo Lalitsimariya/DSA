@@ -11,7 +11,7 @@ public:
                 }
             
             }
-            arr[i]=count;
+            arr.push_back(count);
             if(arr[i]==1){
                 return i;
             }
