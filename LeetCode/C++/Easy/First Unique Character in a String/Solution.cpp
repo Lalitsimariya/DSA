@@ -3,9 +3,10 @@ public:
     int firstUniqChar(string s) {
         vector<int>arr;
         int count=0;
-        for(int i=0;i<s.length();i++){
+        int n = s.length();
+        for(int i=0;i<n;i++){
             char c=s[i];
-            for(int j=0;j<s.length();j++){
+            for(int j=0;j<n;j++){
                 if(c==s[j]){
                     count++;
                 }
