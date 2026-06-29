@@ -12,15 +12,16 @@ public:
             
             }
             arr.push_back(count);
+            count=0;
+            
+        }
+        for(int i=0;i<arr.size();i++){
+            cout<<arr[i]<<" "<<i;
             if(arr[i]==1){
                 return i;
             }
-            else{
-                count=0;
-            }
             
         }
-
         
         return -1;
         
