@@ -1,6 +1,6 @@
 # 📝 Time Needed to Buy Tickets (LeetCode)
 
-🔗 [Problem Link](https://leetcode.com/problems/time-needed-to-buy-tickets/)
+🔗 [Problem Link](https://leetcode.com/problems/time-needed-to-buy-tickets)
 
 ![Difficulty](https://img.shields.io/badge/Difficulty-Easy-brightgreen) ![Language](https://img.shields.io/badge/Language-C++-blue)
 
