@@ -1,27 +1,16 @@
 class Solution {
 public:
     int timeRequiredToBuy(vector<int>& tickets, int k) {
-    
-        int size=tickets.size();
-        int start=0,count=0;
-        for(int i=size-1;i>=0;i--){
-            
-
-        }
-        for(int i=size-1;i>=0;i--){
-            int c=tickets[start]--;
-            if(c==0){
-                tickets.erase(tickets.begin());
-                count++;
+        int ans=0;
+        int n=tickets.size();
+        for(int i=0;i<n;i++){
+            if(i<=k){
+                ans+=min(tickets[i],tickets[k]);
             }
             else{
-                tickets.push_back(c);
-                count++;
+                ans+=min(tickets[i],tickets[k]-1);
             }
-            start++;
-
         }
-        cout<<count;
-        return count;
+        return ans;
     }
 };
