@@ -20,7 +20,6 @@ class MinStack {
     }
     
     public int getMin() {
-        int size=arr.length-1;
         int small=arr[topp];
         for(int i=topp;i>=0;i--){
             
