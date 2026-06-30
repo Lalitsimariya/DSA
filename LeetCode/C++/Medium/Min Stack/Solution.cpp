@@ -1,5 +1,5 @@
 #include<vector>
-#include
+#include<algorithm>
 class MinStack {
 public:
     
@@ -24,12 +24,8 @@ public:
     }
     
     int getMin() {
-        int small=arr.back();
-        for(int i=arr.size()-1;i>=0;i--){
-            if(arr[i]<=small){
-                small=arr[i];
-            }
-        }
+        int small=*min_element(arr.begin(),arr.end());
+        
         return small;
 
     }
