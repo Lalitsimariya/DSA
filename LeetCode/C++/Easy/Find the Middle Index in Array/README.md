@@ -1,6 +1,6 @@
 # 📝 Find the Middle Index in Array (LeetCode)
 
-🔗 [Problem Link](https://leetcode.com/problems/find-the-middle-index-in-array/)
+🔗 [Problem Link](https://leetcode.com/problems/find-the-middle-index-in-array)
 
 ![Difficulty](https://img.shields.io/badge/Difficulty-Easy-brightgreen) ![Language](https://img.shields.io/badge/Language-C++-blue)
 
