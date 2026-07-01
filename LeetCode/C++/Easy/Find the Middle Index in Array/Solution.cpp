@@ -9,4 +9,5 @@ public:
 class Solution {
             mid++;
             mid=mid/2;
+            if(mid)
             return mid;
