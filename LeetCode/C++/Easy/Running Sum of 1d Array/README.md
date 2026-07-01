@@ -1,6 +1,6 @@
 # 📝 Running Sum of 1d Array (LeetCode)
 
-🔗 [Problem Link](https://leetcode.com/problems/running-sum-of-1d-array/)
+🔗 [Problem Link](https://leetcode.com/problems/running-sum-of-1d-array)
 
 ![Difficulty](https://img.shields.io/badge/Difficulty-Easy-brightgreen) ![Language](https://img.shields.io/badge/Language-C++-blue)
 
@@ -8,7 +8,7 @@
 Array, Prefix Sum
 
 ### 🚀 Performance
-- **Runtime:** N/A
+- **Runtime:** Successfully Evaluated
 - **Memory:** N/A
 
 ---
