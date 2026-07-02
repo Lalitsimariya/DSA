@@ -1,6 +1,6 @@
 # 📝 Single Number (LeetCode)
 
-🔗 [Problem Link](https://leetcode.com/problems/single-number)
+🔗 [Problem Link](https://leetcode.com/problems/single-number/)
 
 ![Difficulty](https://img.shields.io/badge/Difficulty-Easy-brightgreen) ![Language](https://img.shields.io/badge/Language-C++-blue)
 
