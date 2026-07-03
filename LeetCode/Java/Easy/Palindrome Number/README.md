@@ -1,6 +1,6 @@
 # 📝 Palindrome Number (LeetCode)
 
-🔗 [Problem Link](https://leetcode.com/problems/palindrome-number/)
+🔗 [Problem Link](https://leetcode.com/problems/palindrome-number)
 
 ![Difficulty](https://img.shields.io/badge/Difficulty-Easy-brightgreen) ![Language](https://img.shields.io/badge/Language-Java-blue)
 
@@ -8,7 +8,7 @@
 Math
 
 ### 🚀 Performance
-- **Runtime:** N/A
+- **Runtime:** Successfully Evaluated
 - **Memory:** N/A
 
 ---
