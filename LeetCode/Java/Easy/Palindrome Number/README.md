@@ -1,6 +1,6 @@
 # 📝 Palindrome Number (LeetCode)
 
-🔗 [Problem Link](https://leetcode.com/problems/palindrome-number)
+🔗 [Problem Link](https://leetcode.com/problems/palindrome-number/)
 
 ![Difficulty](https://img.shields.io/badge/Difficulty-Easy-brightgreen) ![Language](https://img.shields.io/badge/Language-Java-blue)
 
@@ -8,13 +8,13 @@
 Math
 
 ### 🚀 Performance
-- **Runtime:** Successfully Evaluated
+- **Runtime:** N/A
 - **Memory:** N/A
 
 ---
 
 ### 📜 Problem Description
-<p>Given an integer <code>x</code>, return <code>true</code><em> if </em><code>x</code><em> is a </em><span data-keyword="palindrome-integer" class=" cursor-pointer relative text-dark-blue-s text-sm"><button type="button" aria-haspopup="dialog" aria-expanded="false" aria-controls="radix-_r_1j_" data-state="closed" class=""><em><strong>palindrome</strong></em></button></span><em>, and </em><code>false</code><em> otherwise</em>.</p>
+<p>Given an integer <code>x</code>, return <code>true</code><em> if </em><code>x</code><em> is a </em><span data-keyword="palindrome-integer" class=" cursor-pointer relative text-dark-blue-s text-sm"><button type="button" aria-haspopup="dialog" aria-expanded="false" aria-controls="radix-_r_69_" data-state="closed" class=""><em><strong>palindrome</strong></em></button></span><em>, and </em><code>false</code><em> otherwise</em>.</p>
 
 <p>&nbsp;</p>
 <p><strong class="example">Example 1:</strong></p>
