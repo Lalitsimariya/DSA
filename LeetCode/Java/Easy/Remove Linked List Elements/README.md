@@ -1,6 +1,6 @@
 # 📝 Remove Linked List Elements (LeetCode)
 
-🔗 [Problem Link](https://leetcode.com/problems/remove-linked-list-elements/)
+🔗 [Problem Link](https://leetcode.com/problems/remove-linked-list-elements)
 
 ![Difficulty](https://img.shields.io/badge/Difficulty-Easy-brightgreen) ![Language](https://img.shields.io/badge/Language-Java-blue)
 
@@ -8,7 +8,7 @@
 Linked List, Recursion
 
 ### 🚀 Performance
-- **Runtime:** N/A
+- **Runtime:** Successfully Evaluated
 - **Memory:** N/A
 
 ---
