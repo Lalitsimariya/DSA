@@ -3,8 +3,12 @@ public:
     bool isPowerOfThree(int n) {
         bool ans=false;
         int pow=1;
-        
-        for(int i=0;i<3;i++){
+        int num=n,z=0;
+        while(num!=1&&num>0){
+            num=num/3;
+            z++;
+        }
+        for(int i=0;i<z;i++){
             pow=pow*3;
         }
         cout<<pow;
