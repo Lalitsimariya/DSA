@@ -1,6 +1,6 @@
 # 📝 Move Zeroes (LeetCode)
 
-🔗 [Problem Link](https://leetcode.com/problems/move-zeroes/)
+🔗 [Problem Link](https://leetcode.com/problems/move-zeroes)
 
 ![Difficulty](https://img.shields.io/badge/Difficulty-Easy-brightgreen) ![Language](https://img.shields.io/badge/Language-C++-blue)
 
