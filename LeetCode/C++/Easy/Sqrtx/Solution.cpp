@@ -13,7 +13,7 @@ public:
             if(1LL*i*i==x){
                 return i;
             }
-            else if(i*i>x){
+            else if(1LL*i*i>x){
                 return i-1;
             }
 
